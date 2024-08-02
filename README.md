@@ -40,8 +40,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-solution-using-flexbox-jX1wW94iRz)
-- Live Site URL: [Add live site URL here](https://sfschiavetto.github.io/product-preview-card-component/)
+- Solution URL: [solution_URL_here](https://www.frontendmentor.io/solutions/product-preview-card-component-solution-using-flexbox-jX1wW94iRz)
+- Live Site URL: [live_site_URL_here](https://sfschiavetto.github.io/product-preview-card-component/)
 
 ## My process
 
