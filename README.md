@@ -40,7 +40,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-solution-using-flexbox-jX1wW94iRz)
 - Live Site URL: [Add live site URL here](https://sfschiavetto.github.io/product-preview-card-component/)
 
 ## My process
